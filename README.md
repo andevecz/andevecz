@@ -1,7 +1,7 @@
 - 👋 Hi, I’m André Devecz.
-- 👀 I’m interested in CyberSecurity, Machine Learning and programming in general.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m initially looking forward to collaborate on my college projects.
+- 👀 I’m interested in Data, Machine Learning and Programming in general.
+- 🌱 I’m currently learning Python and TypeScript.
+- 💞️ I’m initially looking forward to getting a role as a Data Scientist or Backend Developer.
 - 📫 Email: andre.devecz@gmail.com
 
 <!---
